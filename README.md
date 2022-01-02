@@ -2,8 +2,8 @@
 # Welcome to FishZone!
 
 Hello! Currently, there are only two of us in our team who support the application:
- 1. Veselin Romanov Denchev - application development, testing, configuration and management.
- 2. Oleg Veselinov Ognyanov - development, testing, configuration and management of the server part of the project and 3D models.
+ 1. Veselin Vladimirov - application development, testing, configuration and management.
+ 2. Oleg Ognyanov - development, testing, configuration and management of the server part of the project and 3D models.
 
 
 
