@@ -11,7 +11,7 @@ Hello! Currently, there are only two of us in our team who support the applicati
 
 **Lyudmil Velinov Lyubomirov** - Senior Teacher in Theoretical Training at Professional High School of Economics - Pernik
 
-#Mentor and Technical Manager
+# Mentor and Technical Manager
 **Aleks Vasilev Milchov** - Android Developer in i:FAO Bulgaria
 
 ## Summary
