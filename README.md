@@ -1,4 +1,4 @@
-![LOGO](https://github.com/amilchov/3DPernikGuide/blob/master/app/src/main/res/drawable/pernik_guide_header.png?raw=true)
+![LOGO](https://github.com/amilchov/FishZone/blob/main/fishzone_logo.png)
 # Welcome to FishZone!
 
 Hello! Currently, there are only two of us in our team who support the application:
