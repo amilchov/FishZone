@@ -5,8 +5,6 @@ Hello! Currently, there are only two of us in our team who support the applicati
  1. Veselin Vladimirov - application development, testing, configuration and management.
  2. Oleg Ognyanov - development, testing, configuration and management of the server part of the project and 3D models.
 
-
-
 ## Supervisor
 
 **Lyudmil Velinov Lyubomirov** - Senior Teacher in Theoretical Training at Professional High School of Economics - Pernik
@@ -16,11 +14,7 @@ Hello! Currently, there are only two of us in our team who support the applicati
 
 ## Summary
 
-The project is a virtual walk through the most famous sights of the town of Pernik. It includes 3D models of finds and historical artifacts that can be viewed using QR codes.
-
-## Objectives
-
-The application aims to show the most famous landmarks of the city of Pernik, through some of the most modern and interactive technologies of the twenty-first century, namely 3D models and their visualization.
+The application aims to show all reservoirs in Bulgaria for fishing as each user can see a 3D model of certain fish and water temperature through a sensor of a reservoir. In this way, fishermen can find out which bodies of water offer the best fishing conditions.
 
 ## Level of complexity
 
